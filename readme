@@ -1,0 +1,15 @@
+READ ME
+
+
+STEPS TO RUN
+
+1. Use Ubuntu OS
+2. Create a virtual environment 
+3. Install Gym library, Stable-baseline Library  and Mujoco Library (With License)
+4. Activate the environment and change the directory inside the stable-baselines folder
+5. Run the training code by changing the save directory path
+6. Evaluate the code by loading the best.pkl file into evaluate.py file
+7. Now to record video, run the record.py file
+8. Change the friciton in the environment.xml file and run the evaluate code again and compare results
+9. The sample video has been uploaded 
+
